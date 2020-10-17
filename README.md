@@ -1,2 +1,6 @@
 # DSA5831
-lailai
+
+# Hi Class Mates, welcome to github
+
+# Instructions for using Google Maps API
+
